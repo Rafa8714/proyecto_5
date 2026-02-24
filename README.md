@@ -37,6 +37,7 @@ Cálculo de Ingresos: Aplicación de fórmulas de tarificación para determinar 
 Análisis Estadístico: Comparación de medias y varianzas.
 
 📈 Conclusiones Clave (Insights)
-[Aquí puedes agregar un insight real cuando termines el notebook, por ejemplo: "El plan Ultimate genera un ingreso base más alto, pero el excedente del plan Surf lo hace competitivo en ciertos segmentos."]
+El plan Ultimate genera un ingreso base más alto, pero el excedente del plan Surf lo hace competitivo en ciertos segmentos.
+<img width="1023" height="745" alt="image" src="https://github.com/user-attachments/assets/315707c7-f4d8-4a74-9d61-f16aee6544d4" />
 
-La distribución de los datos muestra que los usuarios en la región de NY-NJ tienen comportamientos de consumo distintos al resto del país.
+
